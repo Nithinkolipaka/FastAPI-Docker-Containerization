@@ -1,0 +1,26 @@
+1. .env + config.json
+
+
+🔹 utils/config_loader.py
+→ load .env + config.json
+
+🔹 utils/data_loader.py
+→ load transcripts
+
+🔹 utils/llm_loader.py
+→ initialize LLM (OpenAI/Gemini)
+
+🔹 src/components/classification.py
+
+🔹 src/pipeline/pipeline.py
+
+🔹 src/components/evaluation.py
+🔹 src/pipeline/pipeline.py
+
+
+🔹 src/components/reporting.py
+🔹 src/pipeline/pipeline.py
+
+🔹 src/utils/helpers.py
+🔹 src/components/router.py
+🔹 main.py.py
